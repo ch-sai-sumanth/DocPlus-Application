@@ -132,9 +132,9 @@ We have used SQL data structure as a database to implement CRUD Operations
 
 ## Project Summary
 
-The project "Doctor App" is developed using the Spring Boot framework and focuses on managing entities such as doctors, patients, and appointments. The application provides functionalities for signup and signin for patients to book appointments. It also includes authorization features to ensure secure access to the system. The project utilizes CRUD operations for all the models and the database used is SQL.
+The project "DocPlus Application" is developed using the Spring Boot framework and focuses on managing entities such as doctors, patients, and appointments. The application provides functionalities for signup and signin for patients to book appointments. It also includes authorization features to ensure secure access to the system. The project utilizes CRUD operations for all the models and the database used is SQL.
 
-The Doctor App aims to facilitate the appointment booking process between doctors and patients. The entities involved are:
+The DocPlus Application aims to facilitate the appointment booking process between doctors and patients. The entities involved are:
 
 Doctor: Represents the doctors in the system. It includes attributes such as name, specialization, contact details, and availability.
 
